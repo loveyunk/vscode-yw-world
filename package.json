@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:yw-world.helloWorld"
+    "onCommand:yw-world.yw-world"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "yw-world.helloWorld",
-        "title": "Hello World"
+        "command": "yw-world.yw-world",
+        "title": "yw-world"
       }
     ]
   },
