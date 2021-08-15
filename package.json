@@ -3,6 +3,7 @@
   "displayName": "yw-world",
   "description": "yw-world",
   "version": "0.0.1",
+  "publisher": "loveyunk",
   "engines": {
     "vscode": "^1.59.0"
   },
